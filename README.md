@@ -1,9 +1,9 @@
 - 👀 I’m interested ines          
 - EU  SOU  FELIPE GONCALVES  
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ESTOU  APRENDENDO COMPUTAÇAO
+- 💞️ I’m looking to collaborate on ... MEUS ESTUDOS
+- 📫 How to reach me  VENHA ATE MINHA CIDADE
 
 <!---
 felipegoncal/felipegoncal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
